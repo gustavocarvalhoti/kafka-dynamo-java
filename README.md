@@ -34,10 +34,17 @@ Json Messaging and Database Persistence using Kafka (Consumer and Producer) <br>
 
 ## :computer: Tecnologias
 
-- **[Java 17](https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html)**
+- **[Java 21](https://www.oracle.com/br/java/technologies/downloads/#java21)**
+- **[Kafka](https://kafka.apache.org/)**
+- **[MongoDB](https://www.mongodb.com/)**
 - **[Maven](https://maven.apache.org/)**
 - **[Docker](https://www.docker.com/)**
 - **[Docker Hub](https://hub.docker.com/)**
+- **[Springframework](https://spring.io/projects/spring-framework)**
+- **[Lombok](https://projectlombok.org/)**
+- **[Spring-boot-devtools](https://docs.spring.io/spring-boot/reference/using/devtools.html)**
+- **[Swagger](https://swagger.io/)**
+- **[Mapstruct](https://mapstruct.org/)**
 
 <br>
 
@@ -58,7 +65,6 @@ Instalar os softwares abaixo:
 - **[Git](https://git-scm.com/)**
 - **[Maven](https://maven.apache.org/)**
 - **[Docker](https://www.docker.com/)**
-- **[Docker Compose](https://docs.docker.com/compose/install/)**
 
 Rodar os comandos abaixo para criar os containers Docker:
 
@@ -76,10 +82,9 @@ docker exec -it mongodb-test bash
 #Testando Mongo - Dentro do container
 mongosh
 show dbs
-use test-gus
-db.developers.insertOne({ name: "Gustavo Carvalho" })
-db.developers.find()
-db.developers.find( { name: "Gustavo Carvalho" } )
+use nfe
+show tables
+db.nfe.find()
 ````
 
 <br>
