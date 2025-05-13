@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+topicos:
+  nfe:
+    request:
+      topic: "nfe.request.topic.v1"

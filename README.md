@@ -101,13 +101,13 @@ db.nfe.find()
 
 - :package: API
 
-![img.png](img.png)<br>
+![img.png](.github/img.png)<br>
 
 ### :arrow_forward: **Executando a aplicação (Consumer)**
 
 - :package: API
 
-![img_1.png](img_2.png) <br>
+![img_1.png](.github/img_2.png) <br>
 
 ## :memo: License
 
