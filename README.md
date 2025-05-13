@@ -37,6 +37,7 @@ Json Messaging and Database Persistence using Kafka (Consumer and Producer) <br>
 - **[Java 21](https://www.oracle.com/br/java/technologies/downloads/#java21)**
 - **[Kafka](https://kafka.apache.org/)**
 - **[MongoDB](https://www.mongodb.com/)**
+- **[Hexagonal](https://www.sensedia.com.br/post/uso-do-padrao-de-arquitetura-hexagonal)**
 - **[Maven](https://maven.apache.org/)**
 - **[Docker](https://www.docker.com/)**
 - **[Docker Hub](https://hub.docker.com/)**
