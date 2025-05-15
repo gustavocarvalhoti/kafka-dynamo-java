@@ -108,7 +108,7 @@ db.nfe.find()
 
 - :package: API
 
-![img_1.png](.github/img_2.png) <br>
+![img_2.png](.github/img_2.png) <br>
 
 ## :memo: License
 
